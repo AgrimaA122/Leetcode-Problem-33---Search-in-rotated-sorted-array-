@@ -5,7 +5,7 @@ Leetcode solution for problem number 33
 
 In this experiment, the **Search in Rotated Sorted Array** problem was solved using a modified **Binary Search** algorithm. The sorted array is rotated at some point, so at every step we identify which half of the array is sorted and check whether the target lies within that half.
 
-### Steps Taken
+### Algorithm
 
 1. Take the rotated sorted array and target as input.
 2. Set `start` to the first index and `end` to the last index.
